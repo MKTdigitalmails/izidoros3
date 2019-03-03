@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 261,
+    "uniqCompNum": 266,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -140,32 +140,18 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-70\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "48px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".btn": {
-              "font-size": "15px"
-            }
-          },
-          "_anchor": "header1-1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-3-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-min-3-2000x1333.png",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -174,9 +160,35 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.6"
           },
-          "title": "CONSTRUÇÕES IZIDOROS",
-          "text": "Construções Izidoros, Lda - Construção Civil e Obras Publicas",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header3-17\" data-toolbar=\"-mbrBtnMove\">PROJECTOS</a>  "
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/lgo2-1400x686.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-7b"
         },
         {
           "_tags": [
@@ -819,7 +831,7 @@
             "showName": true,
             "showBio": false,
             "count": "4",
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -1055,7 +1067,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1318,7 +1330,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1581,7 +1593,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1844,7 +1856,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2107,7 +2119,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2370,7 +2382,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2633,7 +2645,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2896,7 +2908,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3159,7 +3171,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3496,8 +3508,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tesste-1333x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/tesste-1333x2000-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/tesstess-copy-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/tesstess-copy-1333x2000-800x1200.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3637,7 +3649,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3983,7 +3995,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4341,7 +4353,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4651,7 +4663,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4973,7 +4985,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -5295,7 +5307,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -5641,7 +5653,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -5975,7 +5987,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -6357,7 +6369,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -6763,7 +6775,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -7252,7 +7264,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgo2-2-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",

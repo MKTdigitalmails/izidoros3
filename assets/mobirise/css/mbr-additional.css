@@ -5,7 +5,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -474,13 +473,6 @@ h6,
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ffbd4a!important;
-}
-#header1-1 .mbr-section-title {
-  font-size: 48px;
-  font-family: 'Montserrat', sans-serif;
-}
-#header1-1 .btn {
-  font-size: 15px;
 }
 #header3-70 .mbr-section-title,
 #header3-70 .mbr-section-subtitle {
