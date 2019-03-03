@@ -75,10 +75,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -116,7 +116,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -124,7 +124,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -211,198 +211,12 @@
           "_anchor": "header3-70",
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
           "title": "PORTEFÓLIO DE OBRAS",
           "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "0",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#FFFFFF",
-            "showText": true,
-            "filter": false,
-            "images": [
-              {
-                "alt": "",
-                "title": "",
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x1333.png",
-                "caption": "<a href=\"reconstrucao_moradia.html\" class=\"text-primary\"><b>REQUALIFICAÇÃO DE MORADIA ANTIGA</b></a>",
-                "active": false
-              },
-              {
-                "alt": "",
-                "title": "",
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/c3-1-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/c3-1-2000x1333.png",
-                "caption": "<a href=\"construcao_lote_moradias.html\" class=\"text-primary\"><b>CONSTRUÇÃO DE LOTE DE VIVENDAS</b></a>",
-                "active": false
-              },
-              {
-                "alt": "",
-                "title": "",
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/eticsu1-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/eticsu1-2000x1333.png",
-                "caption": "<a href=\"aplicacao_sistema_etics.html\" class=\"text-primary\"><b>ISOLAMENTO EXTERIOR ETICS</b></a>",
-                "active": true
-              }
-            ]
-          },
-          "_anchor": "gallery1-47",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": 0,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#FFFFFF",
-            "showText": true,
-            "filter": false,
-            "images": [
-              {
-                "alt": "",
-                "title": "",
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tavv11-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/tavv11-2000x1333.png",
-                "caption": "<a href=\"page20.html\" class=\"text-primary\"><b>CONSTRUÇÃO DE LOTE DE VIVENDAS</b></a>",
-                "active": false
-              },
-              {
-                "alt": "",
-                "title": "",
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tavv23-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/tavv23-2000x1333.png",
-                "caption": "<b><a href=\"page21.html\" class=\"text-primary\">CONSTRUÇÃO DE LOTE DE VIVENDAS</a></b>",
-                "active": false
-              },
-              {
-                "alt": "",
-                "title": "",
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lil1-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/lil1-2000x1333.png",
-                "caption": "<a href=\"page23.html\" class=\"text-primary\"><b>CONSTRUÇÃO DUAS MORADIAS</b></a>",
-                "active": true
-              }
-            ]
-          },
-          "_anchor": "gallery1-6n",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_params": {
-            "showBullets": false,
-            "fullWidth": false,
-            "spacing": 0,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#FFFFFF",
-            "showText": true,
-            "filter": false,
-            "images": [
-              {
-                "alt": "",
-                "title": "",
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-min-1-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/1-min-1-2000x1333.png",
-                "caption": "<a href=\"page26.html\" class=\"text-primary\"><b>REQUALIFICAÇÃO DE PÁTIO EXTERIOR</b></a>",
-                "active": false
-              },
-              {
-                "alt": "",
-                "title": "",
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-min-2-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/1-min-2-2000x1333.png",
-                "caption": "<a href=\"page27.html\" class=\"text-primary\"><b>REQUALIFICAÇÃO TOTAL INTERIOR</b></a>",
-                "active": false
-              },
-              {
-                "alt": "",
-                "title": "",
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9-min-1-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/9-min-1-2000x1333.png",
-                "caption": "<a href=\"page28.html\" class=\"text-primary\"><b>CONSTRUÇÃO DE MORADIA&nbsp;</b></a>",
-                "active": true
-              },
-              {
-                "alt": "",
-                "title": "",
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-min-3-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/4-min-3-2000x1333.png",
-                "caption": "<a href=\"page29.html\" class=\"text-primary\"><b>ISOLAMENTO EXTERIOR ETICS</b></a>",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "allItem": "All",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-74"
         },
         {
           "_params": {
@@ -411,7 +225,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": true,
-            "paddingTop": 2,
+            "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "5",
             "bgImageRadio": false,
@@ -1180,7 +994,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1241,7 +1055,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1443,7 +1257,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1504,7 +1318,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1706,7 +1520,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1767,7 +1581,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1969,7 +1783,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2030,7 +1844,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2232,7 +2046,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2293,7 +2107,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2495,7 +2309,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2556,7 +2370,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2758,7 +2572,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2819,7 +2633,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3021,7 +2835,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3082,7 +2896,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3284,7 +3098,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3311,10 +3125,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3345,7 +3159,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3502,12 +3316,144 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6-min-2-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/6-min-2-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Antes",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7-min-2-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/7-min-2-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Antes",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Antes",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8-min-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/8-min-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Antes",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9-min-1-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/9-min-1-1333x2000-800x1200.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Antes",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/aa1-1333x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/aa1-1333x2000-800x1200.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5-min-1-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/5-min-1-1333x2000-800x1200.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4-min-1-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/4-min-1-1333x2000-800x1200.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-min-1-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/3-min-1-1333x2000-800x1200.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-min-3-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1-min-3-1333x2000-800x1200.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Antes",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-min-1-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2-min-1-1333x2000-800x1200.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/10-min-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/10-min-1333x2000-800x1200.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Depois",
@@ -3546,12 +3492,12 @@
                 "active": false
               },
               {
-                "tags": "Antes",
+                "tags": "Depois",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/7-1-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/7-1-2000x1333-800x533.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3568,102 +3514,6 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Antes",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1-2-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2-2000x1333-800x534.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Depois",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/7-1-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/7-1-2000x1333-800x533.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Antes",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/9-min-1-1333x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/9-min-1-1333x2000-800x1200.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Depois",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/3-min-1-1333x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/3-min-1-1333x2000-800x1200.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Depois",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/5-min-1-1333x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/5-min-1-1333x2000-800x1200.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Antes",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2-min-1-1333x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/2-min-1-1333x2000-800x1200.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Antes",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/6-min-2-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/6-min-2-2000x1333-800x533.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Antes",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/7-min-2-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/7-min-2-2000x1333-800x533.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
               }
             ]
           },
@@ -3738,7 +3588,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3799,7 +3649,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4084,7 +3934,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4145,7 +3995,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4302,6 +4152,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/c3-1-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/c3-1-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/c1-1-2000x1333.png",
                 "thumb": "@PROJECT_PATH@/assets/images/c1-1-2000x1333-800x533.png",
                 "alt": "",
@@ -4326,20 +4188,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/c3-1-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/c3-1-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/7-min-4-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/7-min-4-2000x1333-800x533.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Depois",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/7-min-4-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/7-min-4-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/falta1-min-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/falta1-min-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/falta2-min-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/falta2-min-2000x1333-800x533.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -4418,7 +4292,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4479,7 +4353,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4728,7 +4602,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4789,7 +4663,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -5050,7 +4924,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -5111,7 +4985,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -5372,7 +5246,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -5433,7 +5307,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -5718,7 +5592,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -5779,7 +5653,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -6052,7 +5926,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -6113,7 +5987,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -6434,7 +6308,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -6495,7 +6369,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -6688,8 +6562,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/10-min-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/10-min-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/album3-7-min-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/album3-7-min-2000x1333-800x533.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -6712,8 +6586,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/4-min-1333x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/4-min-1333x2000-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/6-min-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/6-min-1333x2000-800x1200.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -6724,8 +6598,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/6-min-1333x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/6-min-1333x2000-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/album3-8-min-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/album3-8-min-1333x2000-800x1200.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -6741,7 +6615,31 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/10-min-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/10-min-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4-min-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/4-min-1333x2000-800x1200.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -6816,7 +6714,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -6843,10 +6741,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -6877,12 +6775,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -7034,6 +6931,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/13-min-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/13-min-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Antes",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/2-min-3-2000x1333.png",
                 "thumb": "@PROJECT_PATH@/assets/images/2-min-3-2000x1333-800x533.png",
                 "alt": "",
@@ -7054,48 +6963,12 @@
                 "active": false
               },
               {
-                "tags": "Depois",
+                "tags": "Antes",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/7-min-1-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/7-min-1-2000x1333-800x533.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Depois",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/9-min-1-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/9-min-1-2000x1333-800x533.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Depois",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/10-min-1-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/10-min-1-2000x1333-800x533.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Depois",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/11-min-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/11-min-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/4-min-2-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/4-min-2-2000x1333-800x533.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7106,32 +6979,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/13-min-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/13-min-2000x1333-800x533.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Depois",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/16-min-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/16-min-2000x1333-800x533.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Depois",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1-min-1-1333x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1-min-1-1333x2000-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/5-min-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/5-min-1333x2000-800x1200.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7168,6 +7017,102 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/14-min-1333x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/14-min-1333x2000-800x1200.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Antes",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6-min-1-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/6-min-1-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7-min-1-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/7-min-1-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/10-min-1-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/10-min-1-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9-min-1-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/9-min-1-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/11-min-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/11-min-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/15-min-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/15-min-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16-min-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/16-min-2000x1333-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Depois",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-min-1-1333x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1-min-1-1333x2000-800x1200.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7246,7 +7191,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -7307,7 +7252,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-logo-533x128.png",
+              "src": "@PROJECT_PATH@/assets/images/izi3-1-297x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
